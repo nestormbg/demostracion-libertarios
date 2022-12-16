@@ -5,3 +5,5 @@ console.log(btn, body)
 btn.addEventListener("click", () => {
     body.style.backgroundColor = "red"
 })
+
+console.log("asdfas")
